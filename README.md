@@ -1,13 +1,9 @@
 # TreadmillGUI
-Brief Description: Treadmill GUI is a graphical user interface built using Python that provides an intuitive and user-friendly interface for controlling a treadmill. This project utilizes multithreading techniques to ensure smooth and responsive performance even under heavy usage.
+Treadmill GUI is a graphical user interface built using Python that provides an intuitive and user-friendly interface for controlling a treadmill. This project utilizes multithreading techniques to ensure smooth and responsive performance even under heavy usage.
 
-Key Features:
+**Key Features**:
 
-Sleek and modern GUI design
-Control the speed and incline of the treadmill
-Real-time monitoring of running statistics such as distance and calories burned
-Easy to use and navigate interface
-
-#Technical Requirements:
-Python 3.x
-Multithreading support for smooth performance
+-Sleek and modern GUI design
+-Control the speed and incline of the treadmill
+-Real-time monitoring of running statistics such as distance and calories burned
+-Easy to use and navigate interface
