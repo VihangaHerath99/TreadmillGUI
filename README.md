@@ -8,6 +8,6 @@ Control the speed and incline of the treadmill
 Real-time monitoring of running statistics such as distance and calories burned
 Easy to use and navigate interface
 
-##Technical Requirements:
+#Technical Requirements:
 Python 3.x
 Multithreading support for smooth performance
